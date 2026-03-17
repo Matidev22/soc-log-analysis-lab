@@ -22,4 +22,6 @@ This project simulates a brute-force login attempt and demonstrates how to detec
 This project demonstrates how brute-force attacks can be identified through log analysis and highlights basic SOC analyst skills.
 
 ## Screenshots
+![Screenshot]("https://github.com/user-attachments/assets/5f2e039a-1919-4798-a395-702bda9d9f38")
+
 
